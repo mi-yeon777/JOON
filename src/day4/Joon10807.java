@@ -1,7 +1,7 @@
 package day4;
 //[1차원 배열] 개수 세기
 import java.util.Scanner;
-//[1차원 배열] 개수 세기
+
 public class Joon10807 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
