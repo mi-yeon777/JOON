@@ -1,5 +1,5 @@
 package day4;
-//[1차원 배열] 개수 세기
+//[5.1차원 배열] 개수 세기
 import java.util.Scanner;
 
 public class Joon10807 {
@@ -35,3 +35,9 @@ public class Joon10807 {
         System.out.println(count);
     }
 }
+/* 입력:
+11 //문제: 첫째 줄에는 정수의 개수
+1 4 1 2 4 2 4 2 3 4 4 // 둘째 줄에는 정수가 공백으로 구분되어져있다
+2 // 셋째 줄에는 찾으려고 하는 정수v가 주어진다 */
+
+//출력: 3 첫째 줄에 입력으로 주어진 N개의 정수 중에 v가 몇 개인지 출력한다.

@@ -1,5 +1,5 @@
 package day4;
-//[반복문]구구단
+//[2.반복문]구구단
 
 import java.util.Scanner;
 

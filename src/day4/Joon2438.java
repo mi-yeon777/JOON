@@ -1,5 +1,5 @@
 package day4;
-//[반복문]별 찍기
+//[3.반복문]별 찍기
 import java.util.Scanner;
 
 public class Joon2438 {
@@ -7,6 +7,7 @@ public class Joon2438 {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();// 출력할 줄 수 입력
 
+        //2wnd 랙ans
         // 1부터 N까지 줄 반복
         for (int i = 1; i <= N; i++) {
             // 각 줄마다 j개 만 큼 별 출력
